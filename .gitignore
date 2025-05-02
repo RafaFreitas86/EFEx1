@@ -52,3 +52,11 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Banco de dados local (SQLite ou semelhante)
+*.db
+*.sqlite
+*.sqlite3
+
+# Configurações do VS Code (caso use)
+.vscode/
